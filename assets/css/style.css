@@ -77,7 +77,7 @@ h3 {
 
 /* header */
 
-#masthead {
+/*#masthead {
   position: fixed;
   z-index: 99;
   width: 100%;
@@ -100,7 +100,7 @@ h3 {
   text-align: center;
   text-decoration: none;
   background: #4aaaa5;
-}
+}*/
 .carousel-caption {
   max-width: 100%;
   width: 100%;
